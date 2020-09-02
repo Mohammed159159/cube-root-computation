@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Mohammed Hany\Desktop\Projects\cube root\cube root\main.c(26): warning C4715: 'cuberoot': not all control paths return a value
+  cube root.vcxproj -> C:\Users\Mohammed Hany\Desktop\Projects\cube root\Debug\cube root.exe
